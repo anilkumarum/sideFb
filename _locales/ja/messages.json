@@ -1,0 +1,10 @@
+{
+	"extName": {
+		"message": "sideFb - サイドパネルの Facebook",
+		"description": "Extension name"
+	},
+	"extDescription": {
+		"message": "サイドパネルでFacebookを開きます。オープンソース",
+		"description": "Extension description"
+	}
+}

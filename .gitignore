@@ -1,0 +1,12 @@
+build
+crx-hmr.js
+sideFb.zip
+.vscode
+.TODO
+build.sh
+jsconfig.json
+_metadata
+
+# zip -r sideFb.zip  .
+
+

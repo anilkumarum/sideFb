@@ -1,0 +1,10 @@
+{
+	"extName": {
+		"message": "sideFb - facebook no painel lateral",
+		"description": "Extension name"
+	},
+	"extDescription": {
+		"message": "Abra o Facebook no painel lateral. Código aberto",
+		"description": "Extension description"
+	}
+}

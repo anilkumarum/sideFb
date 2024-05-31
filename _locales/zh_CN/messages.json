@@ -1,0 +1,10 @@
+{
+	"extName": {
+		"message": "sideFb-侧面板中的 Facebook",
+		"description": "Extension name"
+	},
+	"extDescription": {
+		"message": "在侧面板中打开 Facebook。开源",
+		"description": "Extension description"
+	}
+}

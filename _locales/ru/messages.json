@@ -1,0 +1,10 @@
+{
+	"extName": {
+		"message": "SideFb — Facebook на боковой панели",
+		"description": "Extension name"
+	},
+	"extDescription": {
+		"message": "Откройте Facebook на боковой панели. Открытый источник",
+		"description": "Extension description"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"extName": {
+		"message": "sideFb - Facebook im Seitenbereich",
+		"description": "Extension name"
+	},
+	"extDescription": {
+		"message": "Öffnen Sie Facebook im Seitenbereich. Open Source",
+		"description": "Extension description"
+	}
+}

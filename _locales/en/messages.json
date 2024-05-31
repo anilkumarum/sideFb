@@ -1,0 +1,11 @@
+{
+	"extName": {
+		"message": "sideFb - facebook in side panel",
+		"description": "Extension name"
+	},
+
+	"extDescription": {
+		"message": "Open Facebook in side panel. Open source",
+		"description": "Extension description"
+	}
+}

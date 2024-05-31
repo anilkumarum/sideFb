@@ -1,0 +1,10 @@
+{
+	"extName": {
+		"message": "sideFb - Facebook dans le panneau latéral",
+		"description": "Extension name"
+	},
+	"extDescription": {
+		"message": "Ouvrez Facebook dans le panneau latéral. Open source",
+		"description": "Extension description"
+	}
+}
